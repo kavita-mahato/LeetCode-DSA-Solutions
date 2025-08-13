@@ -1,3 +1,4 @@
+package S06_Searching;
 public class pairSum {
     public int[] twoSum(int[] numbers, int target) { 
         int n = numbers.length;
